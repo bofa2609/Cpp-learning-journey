@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello C++" << std::endl;
-    std::cout << "building the portfolio step by step" << std::endl;
+	std::cout << "Hello C++" << std::endl;
+	std::cout << "Building the portfolio step by step" << std::endl;
 
-    return 0;
+	return 0;
 }

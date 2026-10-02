@@ -75,3 +75,5 @@ Testing/
 DocumentLayout.json
 ProjectSettings.json
 VSWorkspaceState.json
+
+*.vcxproj.user
